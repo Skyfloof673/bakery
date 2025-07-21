@@ -1,0 +1,35 @@
+.brand{
+    font-size: larger;
+    color: red;
+}
+.bread{
+    background-color: red;
+    border-radius: 5px;
+    margin: 10px;
+}
+.cakes{
+    background-color: red;
+    border-radius: 5px;
+    margin: 10px;
+}
+.cookies{
+    background-color: red;
+    border-radius: 5px;
+    margin: 10px;
+}
+.muffins{
+    background-color: red;
+    border-radius: 5px;
+    margin: 10px;
+}
+.pies{
+    background-color: red;
+    border-radius: 5px;
+    margin: 10px;
+}
+footer{
+    background-color: black;
+    color: white;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
